@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="left" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
@@ -15,13 +15,22 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="350px" width="350px" src="img/depoisViagem.svg" alt="Cuidados a ter depois da viagem"></mj-image>
+        <mj-image height="200px" width="350px" src="img/depoisViagem.svg" alt="Cuidados a ter depois da viagem"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
+<<<<<<< HEAD
     <mj-column>
       <mj-text font-size="25px"> <p><span style ="font-weight:bold; color:black">1.</span> Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas. </p> <p></7><span style ="font-weight:bold; color:black"> 2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</p> </p></mj-text>
     </mj-column>
+=======
+      <mj-column> <mj-text font-size="22px"><p><span style ="font-weight:bold; color:black">1.</span>
+Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.</mj-text>       </mj-column>
+       <mj-column>
+          <mj-text font-size="22px"><p><span style ="font-weight:bold; color:black">2.</span>
+Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</mj-text>
+   </mj-column>
+>>>>>>> 687757ff80dbc8ce24ad474405a58363d396486b
     </mj-section>
     
   </mj-body>
