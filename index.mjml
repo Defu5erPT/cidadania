@@ -9,16 +9,8 @@
     <mj-section background-color="#337fef">
       <mj-column>
         <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#fff">
-          <mj-navbar-link href="/sairpais" color="#ffffff">Antes de sair do pais</mj-navbar-link>
-          <mj-navbar-link href="/duranteviagem.mjml" color="#ffffff">Durante a viagem</mj-navbar-link>
-          <mj-navbar-link href="/antesvoltar.mjml" color="#ffffff">Antes de voltar</mj-navbar-link>
-          <mj-navbar-link href="/depoisviagem.mjml" color="#ffffff">Depois da viagem</mj-navbar-link>
+          <mj-navbar-link font-weight="bold" font-size="20px" color="#ffffff">Segurança na utilização de dispositivos em viagem </mj-navbar-link>
         </mj-navbar>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text font-weight="bold" font-size="40px"> Segurança na utilização de dispositivos em viagem </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>

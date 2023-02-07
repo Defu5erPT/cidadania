@@ -19,7 +19,7 @@
     <mj-section>
       <mj-column>
         <mj-text font-weight="bold" font-size="40px">Antes de Voltar</mj-text>
-        <mj-image height="300px" width="425px" src="img/antes_voltar.png" alt="Segurança da internet"></mj-image>
+        <mj-image height="300px" width="450px" src="img/antes_voltar.png" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
