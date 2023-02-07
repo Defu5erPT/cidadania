@@ -6,27 +6,22 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#eee">
-    <mj-section background-color="#337fef">
+    <mj-section background-color="#7D520E">
       <mj-column>
-        <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#fff">
-            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Antes de sair do pais</mj-navbar-link>
-            <mj-navbar-link href="/try-it-live" color="#ffffff">Durante a viagem</mj-navbar-link>
-            <mj-navbar-link href="/templates" color="#ffffff">Antes de voltar</mj-navbar-link>
-            <mj-navbar-link href="/components" color="#ffffff">Depois da viagem</mj-navbar-link>
-        </mj-navbar>
+          <mj-text color="white"font-weight="bold" font-size="40px"> Antes de sair do País </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section>
+      <mj-column>
+        <mj-image src="img/undrawTravel.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text font-weight="bold" font-size="40px">
-        Antes de sair do Pais
-        </mj-text>
-      </mj-column>
+    <mj-column>
+      <mj-text font-size="25px"> <p><span style ="font-weight:bold; color:black">1.</span>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…) </p> <p></7><span style ="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p><p><span style ="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB) </p></mj-text>
+    </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-      <mj-image height="250px"width="250px" src="img/seguranca.jpg" alt="Segurança da internet"></mj-image>
-      </mj-column>
-    </mj-section>
+    
   </mj-body>
 </mjml>

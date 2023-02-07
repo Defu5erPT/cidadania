@@ -8,7 +8,7 @@
   <mj-body background-color="#eee">
     <mj-section background-color="#337fef">
       <mj-column>
-        <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#fff">
+        <mj-navbar>
           <mj-navbar-link font-weight="bold" font-size="20px" color="#ffffff">Segurança na utilização de dispositivos em viagem </mj-navbar-link>
         </mj-navbar>
       </mj-column>
