@@ -53,7 +53,7 @@
   	<mj-section background-color="#de2929">
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="40px">Antes Da viagem de volta</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
@@ -63,13 +63,13 @@
       </mj-column>
     </mj-section>
   <mj-section>
-      <mj-column> <mj-text font-size="18px"><p><span style ="font-weight:bold; color:black">1.</span>
+      <mj-column> <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">1.</span>
 Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos
 cifrados, apague os dados do seu dispositivo, se possível de forma segura, com
 software próprio para esta finalidade.</mj-text></mj-column>
         
         <mj-column>
-          <mj-text font-size="18px"><p><span style ="font-weight:bold; color:black">2.</span>
+          <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">2.</span>
 Limpe o histórico das chamadas e pesquisas
 em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe
 o seu histórico de utilização.</mj-text>
@@ -84,13 +84,16 @@ o seu histórico de utilização.</mj-text>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="350px" width="350px" src="img/depoisViagem.svg" alt="Cuidados a ter depois da viagem"></mj-image>
+        <mj-image height="200px" width="350px" src="img/depoisViagem.svg" alt="Cuidados a ter depois da viagem"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-    <mj-column>
-      <mj-text font-size="25px"> <p><span style ="font-weight:bold; color:black">1.</span>Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas. </p> <p></7><span style ="font-weight:bold; color:black"> 2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</p> </p></mj-text>
-    </mj-column>
+      <mj-column> <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">1.</span>
+Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.</mj-text>       </mj-column>
+       <mj-column>
+          <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">2.</span>
+Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</mj-text>
+   </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
