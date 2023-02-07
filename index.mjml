@@ -8,14 +8,14 @@
   <mj-body background-color="#eee">
     <mj-section background-color="#337fef">
       <mj-column>
-        <mj-navbar base-url="https://mjml.io" ico-color="#fff">
+        <mj-navbar>
           <mj-navbar-link font-weight="bold" font-size="20px" color="#ffffff">Segurança na utilização de dispositivos em viagem </mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="200px" width="250px" src="img/seguranca.jpg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="600px" src="img/undraw_two_factor_authentication_namy.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
