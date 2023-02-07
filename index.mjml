@@ -22,6 +22,6 @@
       <mj-column>
         <mj-text font-size="18px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
       </mj-column>
-    </mj-section>
+    
   </mj-body>
 </mjml>

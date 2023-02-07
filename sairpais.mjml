@@ -8,20 +8,23 @@
   <mj-body background-color="#eee">
     <mj-section background-color="#7D520E">
       <mj-column>
-          <mj-text color="white"font-weight="bold" font-size="40px"> Antes de sair do País </mj-text>
+        <mj-text color="white" font-weight="bold" font-size="40px"> Antes de sair do país </mj-text>
       </mj-column>
     </mj-section>
-   
     <mj-section>
       <mj-column>
         <mj-image src="img/undrawTravel.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-    <mj-column>
-      <mj-text font-size="25px"> <p><span style ="font-weight:bold; color:black">1.</span>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…) </p> <p></7><span style ="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p><p><span style ="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB) </p></mj-text>
-    </mj-column>
+      <mj-column>
+        <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">1.</span>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…) </p>
+          <p>
+            </7><span style="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
+          <p><span style="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+        </mj-text>
+      </mj-column>
     </mj-section>
-    
   </mj-body>
 </mjml>
