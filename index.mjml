@@ -15,7 +15,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="200px" width="250px" src="img/seguranca.jpg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="600px" src="img/undraw_two_factor_authentication_namy.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
