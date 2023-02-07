@@ -53,7 +53,7 @@
   	<mj-section background-color="#de2929">
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="40px">Antes Da viagem de volta</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
