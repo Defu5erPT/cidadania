@@ -9,23 +9,26 @@
     <mj-section background-color="#337fef">
       <mj-column>
         <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#fff">
-            <mj-navbar-link href="/gettings-started-onboard" color="#ffffff">Antes de sair do pais</mj-navbar-link>
-            <mj-navbar-link href="/try-it-live" color="#ffffff">Durante a viagem</mj-navbar-link>
-            <mj-navbar-link href="/templates" color="#ffffff">Antes de voltar</mj-navbar-link>
-            <mj-navbar-link href="/components" color="#ffffff">Depois da viagem</mj-navbar-link>
+          <mj-navbar-link href="/sairpais" color="#ffffff">Antes de sair do pais</mj-navbar-link>
+          <mj-navbar-link href="/duranteviagem.mjml" color="#ffffff">Durante a viagem</mj-navbar-link>
+          <mj-navbar-link href="/antesvoltar.mjml" color="#ffffff">Antes de voltar</mj-navbar-link>
+          <mj-navbar-link href="/depoisviagem.mjml" color="#ffffff">Depois da viagem</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-weight="bold" font-size="40px">
-        Segurança na utilização de dispositivos em viagem
-        </mj-text>
+        <mj-text font-weight="bold" font-size="40px"> Segurança na utilização de dispositivos em viagem </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-      <mj-image height="250px"width="250px" src="img/seguranca.jpg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="250px" src="img/seguranca.jpg" alt="Segurança da internet"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="18px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
