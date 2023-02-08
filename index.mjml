@@ -20,12 +20,13 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="25px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
+        <mj-text font-size="20px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
       </mj-column>
+     
     </mj-section>
     <mj-section background-color="#7D520E">
       <mj-column>
-        <mj-text color="white" font-weight="bold" font-size="40px" align="center"> Antes de sair do país </mj-text>
+        <mj-text color="white" font-weight="bold" font-size="25px" align="center"> Antes de sair do país </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -35,7 +36,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="25px">
+        <mj-text font-size="20px">
           <p><span style="font-weight:bold; color:black">1.</span>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…) </p>
           <p>
             </7><span style="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
@@ -93,7 +94,7 @@ forma a copiar documentos sem o seu conhecimento.</p>
     <mj-section background-color="#f7d823">
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="25px">Antes Da viagem de volta</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
@@ -104,12 +105,12 @@ forma a copiar documentos sem o seu conhecimento.</p>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="25px">
+        <mj-text font-size="20px">
           <p><span style="font-weight:bold; color:black">1.</span> Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos cifrados, apague os dados do seu dispositivo, se possível de forma segura, com software próprio para esta finalidade.
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-text font-size="25px">
+        <mj-text font-size="20px">
           <p><span style="font-weight:bold; color:black">2.</span> Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe o seu histórico de utilização.
         </mj-text>
       </mj-column>
@@ -117,7 +118,7 @@ forma a copiar documentos sem o seu conhecimento.</p>
     <mj-section background-color="#129E43">
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Depois da Viagem</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="20px">Depois da Viagem</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
@@ -128,22 +129,22 @@ forma a copiar documentos sem o seu conhecimento.</p>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="25px">
+        <mj-text font-size="20px">
           <p><span style="font-weight:bold; color:black">1.</span> Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-text font-size="25px">
+        <mj-text font-size="20px">
           <p><span style="font-weight:bold; color:black">2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="150px" width="270px" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+        <mj-image src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
       </mj-column>
-      <mj-column>
-        <mj-image height="150px" width="300px" src="img/cncs.png" alt="Esjaloures"></mj-image>
+      <mj-column>	
+        <mj-image height="150px" width="300px" href="https://cncs.gov.pt/" src="img/cncs.png" alt="Cncs"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
