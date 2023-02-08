@@ -40,6 +40,19 @@
           <p>
             </7><span style="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
           <p><span style="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+        <p><span style="font-weight:bold; color:black">4.</span> 
+        Faça backup dos seus dados e deixe o backup num local seguro
+        </p>
+        <p><span style="font-weight:bold; color:black">5.</span> 
+        Evite viajar com dados sensíveis
+        </p>
+        <p><span style="font-weight:bold; color:black">6.</span> 
+        Use um protetor de ecrã no seu computador
+        </p>
+        <p><span style="font-weight:bold; color:black">7.</span> 
+        Marque o seu equipamento com um sinal distintivo (ex. um
+autocolante)
+        </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -49,6 +62,7 @@
           Durante a viagem...
         </mj-text>
       </mj-column>
+   </mj-section>
     </mj-section>
   	<mj-section background-color="#de2929">
       <mj-column>
