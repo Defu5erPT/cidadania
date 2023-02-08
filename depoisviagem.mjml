@@ -19,12 +19,18 @@
       </mj-column>
     </mj-section>
     <mj-section>
+<<<<<<< HEAD
+    <mj-column>
+      <mj-text font-size="25px"> <p><span style ="font-weight:bold; color:black">1.</span> Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas. </p> <p></7><span style ="font-weight:bold; color:black"> 2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</p> </p></mj-text>
+    </mj-column>
+=======
       <mj-column> <mj-text font-size="22px"><p><span style ="font-weight:bold; color:black">1.</span>
 Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.</mj-text>       </mj-column>
        <mj-column>
           <mj-text font-size="22px"><p><span style ="font-weight:bold; color:black">2.</span>
 Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</mj-text>
    </mj-column>
+>>>>>>> 687757ff80dbc8ce24ad474405a58363d396486b
     </mj-section>
     
   </mj-body>

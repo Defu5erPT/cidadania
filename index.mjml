@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="left" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
@@ -20,12 +20,12 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="18px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
+        <mj-text font-size="25px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#7D520E">
       <mj-column>
-        <mj-text color="white" font-weight="bold" font-size="40px"> Antes de sair do país </mj-text>
+        <mj-text color="white" font-weight="bold" font-size="40px" align="center"> Antes de sair do país </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -40,9 +40,14 @@
           <p>
             </7><span style="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
           <p><span style="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+          <p><span style="font-weight:bold; color:black">4.</span> Faça backup dos seus dados e deixe o backup num local seguro </p>
+          <p><span style="font-weight:bold; color:black">5.</span> Evite viajar com dados sensíveis </p>
+          <p><span style="font-weight:bold; color:black">6.</span> Use um protetor de ecrã no seu computador </p>
+          <p><span style="font-weight:bold; color:black">7.</span> Marque o seu equipamento com um sinal distintivo (ex. um autocolante) </p>
         </mj-text>
       </mj-column>
     </mj-section>
+<<<<<<< HEAD
   <mj-section background-color="#5900FF">	
       <mj-column>
         <mj-navbar>
@@ -113,7 +118,7 @@ Alguns destes terminais podem ser concebidos ou estar comprometidos, de
 forma a copiar documentos sem o seu conhecimento</mj-text>
        </mj-column>
      </mj-section>
-  	<mj-section background-color="#de2929">
+    <mj-section background-color="#f7d823">
       <mj-column>
         <mj-navbar>
           <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
@@ -122,27 +127,26 @@ forma a copiar documentos sem o seu conhecimento</mj-text>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="200px" width="600px" src="img/antes_voltar.svg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="600px" src="img/antesvoltar.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
-  <mj-section>
-      <mj-column> <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">1.</span>
-Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos
-cifrados, apague os dados do seu dispositivo, se possível de forma segura, com
-software próprio para esta finalidade.</mj-text></mj-column>
-        
-        <mj-column>
-          <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">2.</span>
-Limpe o histórico das chamadas e pesquisas
-em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe
-o seu histórico de utilização.</mj-text>
-        </mj-column>
-        </mj-section>
-        <mj-section background-color="#129E43">
+    <mj-section>
       <mj-column>
-         <mj-navbar>
-           <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Depois da Viagem</mj-navbar-link>
-           </mj-navbar>
+        <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">1.</span> Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos cifrados, apague os dados do seu dispositivo, se possível de forma segura, com software próprio para esta finalidade.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">2.</span> Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe o seu histórico de utilização.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#129E43">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Depois da Viagem</mj-navbar-link>
+        </mj-navbar>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -151,12 +155,24 @@ o seu histórico de utilização.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column> <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">1.</span>
-Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.</mj-text>       </mj-column>
-       <mj-column>
-          <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">2.</span>
-Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.</mj-text>
-   </mj-column>
+      <mj-column>
+        <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">1.</span> Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image height="150px" width="270px" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="150px" width="300px" src="img/cncs.png" alt="Esjaloures"></mj-image>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
