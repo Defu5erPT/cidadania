@@ -25,7 +25,7 @@
     </mj-section>
     <mj-section background-color="#7D520E">
       <mj-column>
-        <mj-text color="white" font-weight="bold" font-size="40px"> Antes de sair do país </mj-text>
+        <mj-text color="white" font-weight="bold" font-size="40px" align="center"> Antes de sair do país </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -47,12 +47,86 @@
         </mj-text>
       </mj-column>
     </mj-section>
+<<<<<<< HEAD
     <mj-section>
       <mj-column>
         <mj-text> Durante a viagem... </mj-text>
       </mj-column>
     </mj-section>
     </mj-section>
+=======
+<<<<<<< HEAD
+  <mj-section background-color="#5900FF">	
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Durante a viagem</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  <mj-section>
+  <mj-column>
+        <mj-image height="200px" width="600px" src="img/durante_a_viagem.svg" alt="Segurança da internet"></mj-image>
+      </mj-column>
+  </mj-section>
+  <mj-section>
+  	<mj-column>
+    	<mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">1.</span>
+Mantenha os seus equipamentos e arquivos sempre consigo.
+Leve consigo na cabine durante a viagem. NUNCA os deixe no escritório ou no
+quarto do hotel (mesmo dentro de um cofre)..</mj-text>
+    </mj-column>
+      <mj-column>
+    	<mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">2.</span>
+Reforçar a segurança das passwords e utilizar combinações de letras, números e símbolos, em vez de palavras comuns e de fácil associação, reforça a segurança dos seus dados. Aposte também na alteração frequente das passwords.</mj-text>
+    </mj-column>
+  </mj-section>
+      <mj-section>
+      <mj-column>
+    	<mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">3.</span>
+Se precisar de se separar do seu equipamento, mantenha consigo o cartão SIM
+e, se possível, também a bateria.</mj-text>
+    </mj-column>
+     <mj-column>
+        <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">4.</span>
+Utilize um software de cifra durante a viagem.
+Não partilhe informações confidenciais ou sensíveis por telefone ou qualquer
+outro meio de transmissão de voz por canais sem cifra</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+        <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">5.</span>
+Lembre-se de limpar o histórico das suas chamadas e de navegação
+Além do histórico, apague os dados que permanecem em cache, cookies,
+senhas de acesso a websites e arquivos temporários.</mj-text>
+        </mj-column>
+          <mj-column>
+        <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">6.</span>
+Em caso de fiscalização ou apreensão pelas autoridades, comunique imediatamente a entidade proprietária do equipamento e/ou informação. Se você for forçado pelas autoridades locais a fornecer senhas e chaves de criptografia, alerte imediatamente seu empregadora. Se o equipamento ou informação pertencer ao seu trabalho, alerte o seu trabalho.</mj-text>
+        </mj-column>
+        </mj-section>
+          <mj-section>
+          <mj-column>
+            <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">7.</span>
+Não utilize equipamentos oferecidos (ex. USB) pois podem conter
+vírus.
+As Pen drives, pelas suas múltiplas vulnerabilidades são um método privilegiado
+de infeção por parte dos atacantes.</mj-text>
+            </mj-column>
+            <mj-column>
+             <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">8.</span>
+Não conecte periféricos não confiáveis ou outros dispositivos de computação aos seus dispositivos. Preste atenção à troca de documentos (por exemplo, uso de um pendrive durante apresentações de negócios ou durante conferências) Pegue uma caneta destinada apenas para essas trocas e descarte-a ou formate-a após usá-la em um ambiente controlado.</mj-text>
+            </mj-column>
+          </mj-section>
+     <mj-section>
+     	<mj-column>
+        <mj-text font-size="25px"><p><span style ="font-weight:bold; color:black">9.</span>
+Não carregue os seus dispositivos nos terminais elétricos de selfservice
+Alguns destes terminais podem ser concebidos ou estar comprometidos, de
+forma a copiar documentos sem o seu conhecimento</mj-text>
+       </mj-column>
+     </mj-section>
+>>>>>>> cec365ca92f67ec1b0e958c4ae81a9d9db55cf8d
     <mj-section background-color="#f7d823">
       <mj-column>
         <mj-navbar>
@@ -100,6 +174,17 @@
           <p><span style="font-weight:bold; color:black">2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.
         </mj-text>
       </mj-column>
+<<<<<<< HEAD
+=======
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image height="150px" width="270px" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image height="150px" width="300px" src="img/cncs.png" alt="Esjaloures"></mj-image>
+      </mj-column>
+>>>>>>> cec365ca92f67ec1b0e958c4ae81a9d9db55cf8d
     </mj-section>
   </mj-body>
 </mjml>
