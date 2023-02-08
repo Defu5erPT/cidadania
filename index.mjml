@@ -103,7 +103,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="150px" width="270px" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+        <mj-image height="150px" width="270px" href="https://esjaloures.org/" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
       </mj-column>
       <mj-column>
         <mj-image height="150px" width="300px" src="img/cncs.png" alt="Esjaloures"></mj-image>
