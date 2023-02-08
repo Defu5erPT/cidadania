@@ -64,7 +64,7 @@ autocolante)
       </mj-column>
    </mj-section>
     </mj-section>
-  	<mj-section background-color="#de2929">
+  	<mj-section background-color="#f7d823">
       <mj-column>
         <mj-navbar>
           <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
@@ -73,7 +73,7 @@ autocolante)
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="200px" width="600px" src="img/antes_voltar.svg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="600px" src="img/antesvoltar.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
   <mj-section>
