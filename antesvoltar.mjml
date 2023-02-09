@@ -1,35 +1,24 @@
-<mjml>
-  <mj-head>
-    <mj-attributes>
-      <mj-text align="left" color="#555" />
-      <mj-section background-color="#fff" />
-    </mj-attributes>
-  </mj-head>
-  <mj-body background-color="#eee">
-    <mj-section background-color="#de2929">
+ <mj-section background-color="#f7d823">
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Antes Da viagem de volta</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="25px">Antes Da viagem de volta</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image height="200px" width="600px" src="img/antes_voltar.svg" alt="Segurança da internet"></mj-image>
+        <mj-image height="200px" width="600px" src="img/antesvoltar.svg" alt="Segurança da internet"></mj-image>
       </mj-column>
     </mj-section>
-  <mj-section>
-      <mj-column> <mj-text font-size="18px"><p><span style ="font-weight:bold; color:black">1.</span>
-Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos
-cifrados, apague os dados do seu dispositivo, se possível de forma segura, com
-software próprio para esta finalidade.</mj-text></mj-column>
-        
-        <mj-column>
-          <mj-text font-size="18px"><p><span style ="font-weight:bold; color:black">2.</span>
-Limpe o histórico das chamadas e pesquisas
-em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe
-o seu histórico de utilização.</mj-text>
-        </mj-column>
-        </mj-section>
-  </mj-body>
-</mjml>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">1.</span> Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos cifrados, apague os dados do seu dispositivo, se possível de forma segura, com software próprio para esta finalidade.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">2.</span> Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe o seu histórico de utilização.
+        </mj-text>
+      </mj-column>
+    </mj-section>

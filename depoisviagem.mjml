@@ -1,16 +1,144 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="left" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#eee">
+    <mj-section background-color="#337fef">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link font-weight="bold" font-size="20px" color="#ffffff">Segurança na utilização de dispositivos em viagem </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image height="200px" width="600px" src="img/undraw_two_factor_authentication_namy.svg" alt="Segurança da internet"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px">A conexão móvel facilita a comunicação, mas pode ser perigosa para informações sensíveis. É necessário adotar medidas de proteção e este manual apresenta regras simples para ajudar a garantir a segurança dessas informações.</mj-text>
+      </mj-column>
+     
+    </mj-section>
+    <mj-section background-color="#7D520E">
+      <mj-column>
+        <mj-text color="white" font-weight="bold" font-size="25px" align="center"> Antes de sair do país </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="img/undrawTravel.png" alt="Segurança da internet"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">1.</span>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…) </p>
+          <p>
+            </7><span style="font-weight:bold; color:black"> 2.</span> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
+          <p><span style="font-weight:bold; color:black">3.</span> Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+          <p><span style="font-weight:bold; color:black">4.</span> Faça backup dos seus dados e deixe o backup num local seguro </p>
+          <p><span style="font-weight:bold; color:black">5.</span> Evite viajar com dados sensíveis </p>
+          <p><span style="font-weight:bold; color:black">6.</span> Use um protetor de ecrã no seu computador </p>
+          <p><span style="font-weight:bold; color:black">7.</span> Marque o seu equipamento com um sinal distintivo (ex. um autocolante) </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <mj-section>
+      <mj-column>
+        <mj-text> Durante a viagem... </mj-text>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> d731b66cb25ef2d5e4f544ec13c9d2e8e3ae1ebb
+  <mj-section background-color="#5900FF">	
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Durante a viagem</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  <mj-section>
+  <mj-column>
+        <mj-image height="200px" width="600px" src="img/durante_a_viagem.svg" alt="Segurança da internet"></mj-image>
+      </mj-column>
+  </mj-section>
+  <mj-section>
+   		<mj-column>
+    <mj-text font-size="25px">
+          <p><span style="font-weight:bold; color:black">1.</span>Mantenha os seus equipamentos e arquivos sempre consigo.
+Leve consigo na cabine durante a viagem. NUNCA os deixe no escritório ou no
+quarto do hotel (mesmo dentro de um cofre)..</p>
+          <p>
+            </7><span style="font-weight:bold; color:black"> 2.</span> Reforçar a segurança das passwords e utilizar combinações de letras, números e símbolos, em vez de palavras comuns e de fácil associação, reforça a segurança dos seus dados. Aposte também na alteração frequente das passwords.
+</p>
+          <p><span style="font-weight:bold; color:black">3.</span>Se precisar de se separar do seu equipamento, mantenha consigo o cartão SIM
+e, se possível, também a bateria.
+</p>
+          <p><span style="font-weight:bold; color:black">4.</span>Utilize um software de cifra durante a viagem.
+Não partilhe informações confidenciais ou sensíveis por telefone ou qualquer
+outro meio de transmissão de voz por canais sem cifra.
+</p>
+          <p><span style="font-weight:bold; color:black">5.</span> Lembre-se de limpar o histórico das suas chamadas e de navegação
+Além do histórico, apague os dados que permanecem em cache, cookies,
+senhas de acesso a websites e arquivos temporários.</p>
+          <p><span style="font-weight:bold; color:black">6.</span> Em caso de fiscalização ou apreensão pelas autoridades, comunique imediatamente a entidade proprietária do equipamento e/ou informação. Se você for forçado pelas autoridades locais a fornecer senhas e chaves de criptografia, alerte imediatamente seu empregadora. Se o equipamento ou informação pertencer ao seu trabalho, alerte o seu trabalho.</p>
+          <p><span style="font-weight:bold; color:black">7.</span>Não utilize equipamentos oferecidos (ex. USB) pois podem conter
+vírus.
+As Pen drives, pelas suas múltiplas vulnerabilidades são um método privilegiado
+de infeção por parte dos atacantes. </p>
+        <p><span style="font-weight:bold; color:black">8.</span>Não conecte periféricos não confiáveis ou outros dispositivos de computação aos seus dispositivos. Preste atenção à troca de documentos (por exemplo, uso de um pendrive durante apresentações de negócios ou durante conferências) Pegue uma caneta destinada apenas para essas trocas e descarte-a ou formate-a após usá-la em um ambiente controlado.</p>
+        <p><span style="font-weight:bold; color:black">9.</span>Não carregue os seus dispositivos nos terminais elétricos de selfservice
+Alguns destes terminais podem ser concebidos ou estar comprometidos, de
+<<<<<<< HEAD
+forma a copiar documentos sem o seu conhecimento</mj-text>
+       </mj-column>
+     </mj-section>
+>>>>>>> cec365ca92f67ec1b0e958c4ae81a9d9db55cf8d
+=======
+forma a copiar documentos sem o seu conhecimento.</p>
+        </mj-text>
+    </mj-column>	
+   </mj-section>
+>>>>>>> d731b66cb25ef2d5e4f544ec13c9d2e8e3ae1ebb
+    <mj-section background-color="#f7d823">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="25px">Antes Da viagem de volta</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image height="200px" width="600px" src="img/antesvoltar.svg" alt="Segurança da internet"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">1.</span> Transfira os seus dados na rede da sua entidade, utilizando uma ligação segura. Se não tiver uma caixa de correio eletrónico específica para receber arquivos cifrados, apague os dados do seu dispositivo, se possível de forma segura, com software próprio para esta finalidade.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">2.</span> Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe o seu histórico de utilização.
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#129E43">
       <mj-column>
-         <mj-navbar>
-           <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Depois da Viagem</mj-navbar-link>
-           </mj-navbar>
+        <mj-navbar>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="20px">Depois da Viagem</mj-navbar-link>
+        </mj-navbar>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -19,19 +147,27 @@
       </mj-column>
     </mj-section>
     <mj-section>
-    <mj-column>
-       <mj-image height="50px" width="50px" src="img/verde1.png" alt="Número 1"></mj-image>
-      <mj-text font-size="25px">  Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.
+      <mj-column>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">1.</span> Mude todas as senhas usadas durante a viagem, pois podem ter sido interceptadas.
         </mj-text>
       </mj-column>
       <mj-column>
-      <mj-image height="50px" width="50px" src="img/verde2.png" alt="Número 2"></mj-image>
-      
-     <mj-text font-size="25px"> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.
-       </p></mj-text>
+        <mj-text font-size="20px">
+          <p><span style="font-weight:bold; color:black">2.</span> Analise o equipamento antes de conectar à rede da organização, realizando pelo menos um teste de segurança (anti-vírus e anti-spyware.
+        </mj-text>
       </mj-column>
-    </mj-column>
+<<<<<<< HEAD
+=======
     </mj-section>
-    
+    <mj-section>
+      <mj-column>
+        <mj-image src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+      </mj-column>
+      <mj-column>	
+        <mj-image height="150px" width="300px" href="https://cncs.gov.pt/" src="img/cncs.png" alt="Cncs"></mj-image>
+      </mj-column>
+>>>>>>> cec365ca92f67ec1b0e958c4ae81a9d9db55cf8d
+    </mj-section>
   </mj-body>
 </mjml>
