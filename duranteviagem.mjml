@@ -1,9 +1,15 @@
 <mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
   <mj-body>
      <mj-section background-color="#5900FF">	
       <mj-column>
         <mj-navbar>
-          <mj-navbar-link color="#fff" font-weight="bold" font-size="30px">Durante a viagem</mj-navbar-link>
+          <mj-navbar-link color="#fff" font-weight="bold" font-size="25px">Durante a viagem</mj-navbar-link>
         </mj-navbar>
       </mj-column>
     </mj-section>
@@ -14,33 +20,59 @@
   </mj-section>
   <mj-section>
    		<mj-column>
-    <mj-text font-size="25px">
-          <p><span style="font-weight:bold; color:black">1.</span>Mantenha os seus equipamentos e arquivos sempre consigo.
+           <mj-image height="50px" width="50px" src="img/roxo1.png" alt="Cuidados a ter depois da viagem"></mj-image>
+    <mj-text font-size="15px">
+ <p>Mantenha os seus equipamentos e arquivos sempre consigo.
 Leve consigo na cabine durante a viagem. NUNCA os deixe no escritório ou no
-quarto do hotel (mesmo dentro de um cofre)..</p>
-          <p>
-            </7><span style="font-weight:bold; color:black"> 2.</span> Reforçar a segurança das passwords e utilizar combinações de letras, números e símbolos, em vez de palavras comuns e de fácil associação, reforça a segurança dos seus dados. Aposte também na alteração frequente das passwords.
+quarto do hotel (mesmo dentro de um cofre).</p> 
+ </mj-text>
+  <mj-image height="50px" width="50px" src="img/roxo2.png" alt="Cuidados a ter depois da viagem"></mj-image>
+  <mj-text font-size="15px">
+<p>Reforçar a segurança das passwords e utilizar combinações de letras, números e símbolos, em vez de palavras comuns e de fácil associação, reforça a segurança dos seus dados. Aposte também na alteração frequente das passwords.
 </p>
-          <p><span style="font-weight:bold; color:black">3.</span>Se precisar de se separar do seu equipamento, mantenha consigo o cartão SIM
+</mj-text>
+  <mj-image height="50px" width="50px" src="img/roxo3.png" alt="Cuidados a ter depois da viagem"></mj-image>  
+ <mj-text font-size="15px">
+   <p>Se precisar de se separar do seu equipamento, mantenha consigo o cartão SIM
 e, se possível, também a bateria.
 </p>
-          <p><span style="font-weight:bold; color:black">4.</span>Utilize um software de cifra durante a viagem.
+   </mj-text>
+	<mj-image height="50px" width="50px" src="img/roxo4.png" alt="Cuidados a ter depois da viagem"></mj-image>
+   <mj-text font-size="15px">
+        <p>Utilize um software de cifra durante a viagem.
 Não partilhe informações confidenciais ou sensíveis por telefone ou qualquer
 outro meio de transmissão de voz por canais sem cifra.
 </p>
-          <p><span style="font-weight:bold; color:black">5.</span> Lembre-se de limpar o histórico das suas chamadas e de navegação
+        </mj-text>
+<mj-image height="50px" width="50px" src="img/roxo5.png" alt="Cuidados a ter depois da viagem"></mj-image> 
+     <mj-text font-size = "15px">
+        <p> Lembre-se de limpar o histórico das suas chamadas e de navegação
 Além do histórico, apague os dados que permanecem em cache, cookies,
 senhas de acesso a websites e arquivos temporários.</p>
-          <p><span style="font-weight:bold; color:black">6.</span> Em caso de fiscalização ou apreensão pelas autoridades, comunique imediatamente a entidade proprietária do equipamento e/ou informação. Se você for forçado pelas autoridades locais a fornecer senhas e chaves de criptografia, alerte imediatamente seu empregadora. Se o equipamento ou informação pertencer ao seu trabalho, alerte o seu trabalho.</p>
-          <p><span style="font-weight:bold; color:black">7.</span>Não utilize equipamentos oferecidos (ex. USB) pois podem conter
+        </mj-text>
+   <mj-image height="50px" width="50px" src="img/roxo6.png" alt="Cuidados a ter depois da viagem"></mj-image>  
+    <mj-text font-size="15px">
+         <p>Em caso de fiscalização ou apreensão pelas autoridades, comunique imediatamente a entidade proprietária do equipamento e/ou informação. Se você for forçado pelas autoridades locais a fornecer senhas e chaves de criptografia, alerte imediatamente seu empregadora. Se o equipamento ou informação pertencer ao seu trabalho, alerte o seu trabalho.</p>
+        </mj-text>
+       <mj-image height="50px" width="50px" src="img/roxo7.png" alt="Cuidados a ter depois da viagem"></mj-image>  
+    <mj-text font-size="15px">
+       <p>Não utilize equipamentos oferecidos (ex. USB) pois podem conter
 vírus.
 As Pen drives, pelas suas múltiplas vulnerabilidades são um método privilegiado
 de infeção por parte dos atacantes. </p>
-        <p><span style="font-weight:bold; color:black">8.</span>Não conecte periféricos não confiáveis ou outros dispositivos de computação aos seus dispositivos. Preste atenção à troca de documentos (por exemplo, uso de um pendrive durante apresentações de negócios ou durante conferências) Pegue uma caneta destinada apenas para essas trocas e descarte-a ou formate-a após usá-la em um ambiente controlado.</p>
-        <p><span style="font-weight:bold; color:black">9.</span>Não carregue os seus dispositivos nos terminais elétricos de selfservice
-Alguns destes terminais podem ser concebidos ou estar comprometidos, de
-forma a copiar documentos sem o seu conhecimento.</p>
         </mj-text>
+       <mj-image height="50px" width="50px" src="img/roxo8.png" alt="Cuidados a ter depois da viagem"></mj-image>  
+      <mj-text font-size="15px">
+        <p>Não conecte periféricos não confiáveis ou outros dispositivos de computação aos seus dispositivos. Preste atenção à troca de documentos (por exemplo, uso de um pendrive durante apresentações de negócios ou durante conferências) Pegue uma caneta destinada apenas para essas trocas e descarte-a ou formate-a após usá-la em um ambiente controlado.</p>
+        </mj-text>
+   <mj-image height="50px" width="50px" src="img/roxo9.png" alt="Cuidados a ter depois da viagem"></mj-image>
+     <mj-text font-size="15px">     
+        <p>Não carregue os seus dispositivos nos terminais elétricos de selfservice
+Alguns destes terminais podem ser concebidos ou estar comprometidos, de
+          forma a copiar documentos sem o seu conhecimento.</p>
+        </mj-text>   
+       </mj-column>
+     </mj-section>
     </mj-column>	
    </mj-section>
   </mj-body>
