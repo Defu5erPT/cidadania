@@ -40,36 +40,36 @@
          <mj-image height="50px" width="50px" src="img/castanho1.png" alt="Cuidados a ter depois da viagem"></mj-image>
         <mj-text font-size="15px">
           <p>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…).</p>
-          <p>
           </mj-text>
-        </mj-text>
           <mj-image height="50px" width="50px" src="img/castanho2.png" alt="Cuidados a ter depois da viagem"></mj-image>
-      <mj-text>
-        </7> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
+      <mj-text font-size="15px">
+        <p> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
 </mj-text>
       <mj-image height="50px" width="50px" src="img/castanho3.png" alt="Cuidados a ter depois da viagem"></mj-image>
-     	<mj-text>
-        <p>Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+     	<mj-text font-size="15px">
+        <p>Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB).</p>
         </mj-text>
        <mj-image height="50px" width="50px" src="img/castanho4.png" alt="Cuidados a ter depois da viagem"></mj-image>
-     <mj-text>
-           <p>Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB)</p>
+     <mj-text font-size="15px">
+           <p>Faça backup dos seus dados e deixe o backup num local seguro
+Isto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão
+do seu equipamento.</p>
       </mj-text>
       <mj-image height="50px" width="50px" src="img/castanho5.png" alt="Cuidados a ter depois da viagem"></mj-image>
-     <mj-text>
-        <p>Faça backup dos seus dados e deixe o backup num local seguro </p>
+     <mj-text font-size="15px">
+        <p>Faça backup dos seus dados e deixe o backup num local seguro.</p>
       </mj-text>
          <mj-image height="50px" width="50px" src="img/castanho6.png" alt="Cuidados a ter depois da viagem"></mj-image>
-     <mj-text>
+     <mj-text font-size="15px">
       <p>Evite viajar com dados sensíveis </p>
       </mj-text>
       <mj-image height="50px" width="50px" src="img/castanho7.png" alt="Cuidados a ter depois da viagem"></mj-image>
-         <mj-text>
+         <mj-text font-size="15px">
        <p>Use um protetor de ecrã no seu computador </p>
       </mj-text>
     <mj-image height="50px" width="50px" src="img/castanho7.png" alt="Cuidados a ter depois da viagem"></mj-image>
-          <mj-text>
-      <p> Marque o seu equipamento com um sinal distintivo (ex. um autocolante) </p>
+          <mj-text font-size="15px">
+      <p> Marque o seu equipamento com um sinal distintivo (ex. um autocolante).</p>
       </mj-text>
         
       </mj-column>
