@@ -41,37 +41,56 @@
         <mj-text font-size="15px">
           <p>Leia e siga atentamente as normas de segurança estabelecidas pela sua organização (ex. políticas de segurança, normas internas…).</p>
           </mj-text>
+        </mj-column>
+      <mj-column>
           <mj-image height="50px" width="50px" src="img/castanho2.png" alt="Cuidados a ter depois da viagem"></mj-image>
       <mj-text font-size="15px">
         <p> Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</p>
 </mj-text>
+       </mj-column>
+       </mj-section>
+    <mj-section>
+      <mj-column>
       <mj-image height="50px" width="50px" src="img/castanho3.png" alt="Cuidados a ter depois da viagem"></mj-image>
      	<mj-text font-size="15px">
         <p>Selecione os equipamentos que vai usar nas viagens (computadores, smartphones, dispositivos portáteis tais como discos rígidos e cartões de memória USB).</p>
-        </mj-text>
+        </mj-text>  		
+        </mj-column>
+      <mj-column>
        <mj-image height="50px" width="50px" src="img/castanho4.png" alt="Cuidados a ter depois da viagem"></mj-image>
      <mj-text font-size="15px">
            <p>Faça backup dos seus dados e deixe o backup num local seguro
 Isto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão
 do seu equipamento.</p>
       </mj-text>
+       </mj-column> 
+      </mj-section>
+    <mj-section>
+      <mj-column>
       <mj-image height="50px" width="50px" src="img/castanho5.png" alt="Cuidados a ter depois da viagem"></mj-image>
      <mj-text font-size="15px">
         <p>Faça backup dos seus dados e deixe o backup num local seguro.</p>
       </mj-text>
+        </mj-column>
+       <mj-column>
          <mj-image height="50px" width="50px" src="img/castanho6.png" alt="Cuidados a ter depois da viagem"></mj-image>
      <mj-text font-size="15px">
       <p>Evite viajar com dados sensíveis </p>
       </mj-text>
+         </mj-column>
+      </mj-section>
+    <mj-section>
+      <mj-column>
       <mj-image height="50px" width="50px" src="img/castanho7.png" alt="Cuidados a ter depois da viagem"></mj-image>
          <mj-text font-size="15px">
        <p>Use um protetor de ecrã no seu computador </p>
       </mj-text>
+        </mj-column>
+      <mj-column>
     <mj-image height="50px" width="50px" src="img/castanho7.png" alt="Cuidados a ter depois da viagem"></mj-image>
           <mj-text font-size="15px">
       <p> Marque o seu equipamento com um sinal distintivo (ex. um autocolante).</p>
       </mj-text>
-        
       </mj-column>
     </mj-section>
   <mj-section background-color="#5900FF">	
@@ -95,17 +114,25 @@ do seu equipamento.</p>
 Leve consigo na cabine durante a viagem. Nunca os deixe no escritório ou no
 quarto do hotel (mesmo dentro de um cofre).</p> 
  </mj-text>
+        </mj-column>
+    <mj-column>
   <mj-image height="50px" width="50px" src="img/roxo2.png" alt="Cuidados a ter depois da viagem"></mj-image>
   <mj-text font-size="15px">
 <p>Reforçar a segurança das passwords e utilizar combinações de letras, números e símbolos, em vez de palavras comuns e de fácil associação, reforça a segurança dos seus dados. Aposte também na alteração frequente das passwords.
 </p>
 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
   <mj-image height="50px" width="50px" src="img/roxo3.png" alt="Cuidados a ter depois da viagem"></mj-image>  
  <mj-text font-size="15px">
    <p>Se precisar de se separar do seu equipamento, mantenha consigo o cartão SIM
 e, se possível, também a bateria.
 </p>
    </mj-text>
+        </mj-column>
+      <mj-column>
 	<mj-image height="50px" width="50px" src="img/roxo4.png" alt="Cuidados a ter depois da viagem"></mj-image>
    <mj-text font-size="15px">
         <p>Utilize um software de cifra durante a viagem.
@@ -113,16 +140,26 @@ Não partilhe informações confidenciais ou sensíveis por telefone ou qualquer
 outro meio de transmissão de voz por canais sem cifra.
 </p>
         </mj-text>
+        </mj-column>
+      </mj-section>
+    <mj-section>
+    <mj-column>
 <mj-image height="50px" width="50px" src="img/roxo5.png" alt="Cuidados a ter depois da viagem"></mj-image> 
      <mj-text font-size = "15px">
         <p> Lembre-se de limpar o histórico das suas chamadas e de navegação
 Além do histórico, apague os dados que permanecem em cache, cookies,
 senhas de acesso a websites e arquivos temporários.</p>
         </mj-text>
+      </mj-column>
+    <mj-column>
    <mj-image height="50px" width="50px" src="img/roxo6.png" alt="Cuidados a ter depois da viagem"></mj-image>  
     <mj-text font-size="15px">
          <p>Em caso de fiscalização ou apreensão pelas autoridades, comunique imediatamente a entidade proprietária do equipamento e/ou informação. Se você for forçado pelas autoridades locais a fornecer senhas e chaves de criptografia, alerte imediatamente seu empregadora. Se o equipamento ou informação pertencer ao seu trabalho, alerte o seu trabalho.</p>
         </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section>
+      <mj-column>
        <mj-image height="50px" width="50px" src="img/roxo7.png" alt="Cuidados a ter depois da viagem"></mj-image>  
     <mj-text font-size="15px">
        <p>Não utilize equipamentos oferecidos (ex. USB) pois podem conter
@@ -130,17 +167,23 @@ vírus.
 As Pen drives, pelas suas múltiplas vulnerabilidades são um método privilegiado
 de infeção por parte dos atacantes. </p>
         </mj-text>
+       </mj-column>
+      <mj-column>
        <mj-image height="50px" width="50px" src="img/roxo8.png" alt="Cuidados a ter depois da viagem"></mj-image>  
       <mj-text font-size="15px">
         <p>Não conecte periféricos não confiáveis ou outros dispositivos de computação aos seus dispositivos. Preste atenção à troca de documentos (por exemplo, uso de um pendrive durante apresentações de negócios ou durante conferências) Pegue uma caneta destinada apenas para essas trocas e descarte-a ou formate-a após usá-la em um ambiente controlado.</p>
         </mj-text>
+        </mj-column>
+      </mj-section>
+     <mj-section>
+   <mj-column>
    <mj-image height="50px" width="50px" src="img/roxo9.png" alt="Cuidados a ter depois da viagem"></mj-image>
      <mj-text font-size="15px">     
         <p>Não carregue os seus dispositivos nos terminais elétricos de selfservice
 Alguns destes terminais podem ser concebidos ou estar comprometidos, de
           forma a copiar documentos sem o seu conhecimento.</p>
         </mj-text>   
-       </mj-column>
+      </mj-column>
      </mj-section>
     </mj-column>	
    </mj-section>
@@ -201,7 +244,7 @@ Alguns destes terminais podem ser concebidos ou estar comprometidos, de
             <mj-image height="150px" width="300px" href="https://cncs.gov.pt/" src="img/cncs.png" alt="Cncs"></mj-image>
       </mj-column>
       <mj-column>	
-        <mj-image padding-top="50px" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
+        <mj-image padding-top="50px" href="https://www.esjaloures.org/" src="img/Esjaloures.png" alt="Esjaloures"></mj-image>
     
       </mj-column>
     </mj-section>
