@@ -148,7 +148,7 @@ outro meio de transmissão de voz por canais sem cifra.
     <mj-column>
 <mj-image height="50px" width="50px" src="img/roxo5.png" alt="Cuidados a ter depois da viagem"></mj-image> 
      <mj-text font-size = "15px">
-        <p> Lembre-se de limpar o histórico das suas chamadas e de navegação
+        <p> Lembre-se de limpar o histórico das suas chamadas e de navegação.
 Além do histórico, apague os dados que permanecem em cache, cookies,
 senhas de acesso a websites e arquivos temporários.</p>
         </mj-text>
@@ -211,7 +211,7 @@ Alguns destes terminais podem ser concebidos ou estar comprometidos, de
       <mj-column>
          <mj-image height="50px" width="50px" src="img/amarelo2.png" alt="Cuidados a ter depois da viagem"></mj-image>
         <mj-text font-size="15px">
-          <p>Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, elimpe o seu histórico de utilização.
+          <p>Limpe o histórico das chamadas e pesquisas em todos os seus dispositivos móveis, como por exemplo: tablets, telefone e computador, e limpe o seu histórico de utilização.
         </mj-text>
       </mj-column>
     </mj-section>
